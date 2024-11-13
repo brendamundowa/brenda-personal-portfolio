@@ -20,12 +20,12 @@ const projects = [
      {
       title: 'Food App',
       description: 'A collection Food App design project.',
-      url: 'https://code-portfolio-five.vercel.app/'
+      url: ''
     },
     {
       title: 'Waste Application',
       description: "A showcase of Brenda's first design project.",
-      url: 'https://next-portfolio-murex-theta.vercel.app/'
+      url: ''
     },
     
     {
