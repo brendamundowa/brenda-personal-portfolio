@@ -3,18 +3,18 @@ const projects = [
   {
     title: 'Project 1',
     description: "A showcase of my Web Dev's first project.",
-    url: '',
+    url: ' https://brendamundowa.github.io/web-project-one/',
   },
     {
       
         title: 'Project 2',
         description: "A showcase of Dev Web Project 2 projects.",
-        url: ''
+        url: 'https://github.com/brendamundowa/web-project-two'
       },
       {
         title: 'Project 3',
         description: "A showcase of Web Development Project 3  .",
-        url: ''
+        url: 'https://brendamundowa.github.io/web-project-three'
       },
       
      {
