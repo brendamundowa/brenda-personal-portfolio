@@ -9,7 +9,7 @@ const projects = [
       
         title: 'Project 2',
         description: "A showcase of Dev Web Project 2 projects.",
-        url: 'https://github.com/brendamundowa/web-project-two'
+        url: ' https://brendamundowa.github.io/workspace/'
       },
       {
         title: 'Project 3',
